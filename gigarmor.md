@@ -11,15 +11,24 @@ Hello everyone. I am **Aayush Kumar Shrivastav**, team lead of **Runtime Terror*
 
 **On screen:** Homepage hero section (GigArmor title + tagline visible).
 
+**Speak while showing:**
+"This is GigArmor, our AI income-protection platform for gig workers. In this demo, I will quickly show worker flow, admin flow, and anti-spoofing." 
+
 ### 0:12–0:25 | Problem
 Gig workers in India lose daily income due to disruptions outside their control—heavy rain, flood, pollution shutdown, curfew, app outage, and sudden demand shocks.
 
 **On screen:** Scroll slightly to coverage cards (show 2–3 cards quickly).
 
+**Speak while showing:**
+"These are exactly the loss-of-income risks we cover. We are focused only on income protection, not health or accident insurance." 
+
 ### 0:25–0:40 | Solution
 GigArmor is an AI-powered parametric income-protection platform with weekly pricing. It detects disruptions, triggers claims, runs anti-fraud checks, and routes payouts quickly.
 
 **On screen:** Scroll to pricing calculator and move slider once.
+
+**Speak while showing:**
+"Here pricing is transparent and dynamic. Premium changes based on zone risk, work type, and weekly activity." 
 
 ### 0:40–1:05 | What to open on screen (Worker flow)
 Open **Homepage → Login → Worker Demo**.
@@ -35,10 +44,13 @@ Open **Live Alerts** and trigger one simulated disruption to show auto-claim beh
 5. In worker sidebar open **My Policy**
 6. Open **Live Alerts** and run one trigger demo card
 
+**Speak while showing:**
+"Now I am logging in as a worker using the demo number and OTP. This is the worker policy view with premium, coverage, and eligibility. Here in Live Alerts, when a disruption is detected, claim flow gets triggered automatically." 
+
 ### 1:05–1:28 | What to open on screen (Admin flow)
 Log out, then login as admin with phone: **+917000000002** and OTP: **123456**.
 Open **Dashboard Overview**, then **Risk Map**, then **Market Crash**.
-In Market Crash, show risk-tier decisions: low risk auto, medium review, high risk block.
+In Market Crash, clearly show risk-tier decisions: low risk auto, medium review, high risk block.
 
 **Exact clicks:**
 1. Click **Logout**
@@ -48,10 +60,16 @@ In Market Crash, show risk-tier decisions: low risk auto, medium review, high ri
 5. Open **Market Crash**
 6. Toggle strict mode + move threshold slider once and show decision table
 
+**Speak while showing:**
+"Now I switch to admin login. This dashboard gives portfolio-level visibility. In Risk Map, we monitor disruption by zone. **Our key differentiator is the Market Crash module** — it detects suspicious claim rings, applies anti-spoofing checks, and routes low-risk claims to auto-pay, medium-risk to review, and high-risk to block. This protects genuine workers during adversarial events." 
+
 ### 1:28–1:45 | Close
 This Phase 1 build demonstrates role-separated flows, compliance-focused coverage, and adversarial defense readiness for Market Crash scenarios. Thank you.
 
 **On screen:** Keep Market Crash page open on final frame.
+
+**Speak while showing:**
+"So this is our Phase 1 submission: compliant scope, real role-based product flow, and a strong Market Crash defense layer for safe claim automation. Thank you." 
 
 ---
 
@@ -62,15 +80,24 @@ Hello everyone. I am **Aayush Kumar Shrivastav**, team lead of **Runtime Terror*
 
 **On screen:** Homepage top section.
 
+**Speak while showing:**
+"I will show the complete journey in two parts: worker experience first, then admin command center." 
+
 ### 0:15–0:35 | Problem framing
 Our focus is strict loss-of-income protection for gig workers. We intentionally exclude health, life, accident, and vehicle-repair style coverage to stay aligned with challenge constraints.
 
 **On screen:** Coverage section (show loss-of-income categories).
 
+**Speak while showing:**
+"Our coverage categories are mapped to disruption-led income loss, keeping the scope fully aligned with challenge constraints." 
+
 ### 0:35–0:55 | Product summary
 GigArmor computes weekly premium from zone risk, platform risk, and work activity. It monitors disruption signals continuously and executes claim orchestration with anti-spoofing controls.
 
 **On screen:** Pricing calculator (change zone/type/days once).
+
+**Speak while showing:**
+"The premium engine is transparent, and claims are handled through a parametric trigger pipeline with fraud checks built in." 
 
 ### 0:55–1:20 | Screen flow: worker journey
 Open **Login** and use worker demo: **+917000000001 / 123456**.
@@ -80,17 +107,26 @@ Open **Policy Terms** briefly to show trigger conditions and exclusions.
 
 **Exact clicks:** Login → Worker Demo → Send OTP → 123456 → Verify & Login → My Policy → Policy Terms → Live Alerts.
 
+**Speak while showing:**
+"Here I log in as worker. This is the policy summary with clear terms and trigger rules. When a disruption alert is active, claim initiation and payout simulation can be completed quickly." 
+
 ### 1:20–1:45 | Screen flow: admin operations
 Switch to admin demo: **+917000000002 / 123456**.
 Open **Dashboard** for portfolio view, then **Risk Map** for city-zone signal visibility.
-Open **Market Crash** to demonstrate anti-spoofing, ring detection, and decision routing.
+Open **Market Crash** to demonstrate anti-spoofing, ring detection, trust scoring, and decision routing.
 
 **Exact clicks:** Logout → Admin login → Overview → Analytics (optional 5 sec) → Risk Map → Market Crash.
+
+**Speak while showing:**
+"Now on admin side, we get live operational visibility and control. **Please note this Market Crash screen as our highlight module**: it combines spoofing defense, suspicious-ring detection, and risk-based routing so automation stays fast for genuine users and strict for suspicious activity." 
 
 ### 1:45–2:00 | Close
 GigArmor delivers a clear Phase 1 strategy, a working role-based prototype, and a practical roadmap for scale. Thank you.
 
 **On screen:** Market Crash + sidebar visible, end recording.
+
+**Speak while showing:**
+"That concludes our demo. GigArmor is ready as a strong Phase 1 foundation, with Market Crash resilience as a core strength for production-grade scale." 
 
 ---
 
@@ -101,6 +137,7 @@ GigArmor delivers a clear Phase 1 strategy, a working role-based prototype, and 
 - Show My Policy, Live Alerts, and one claim trigger
 - Show logout, then admin login: +917000000002 / 123456
 - Show Dashboard, Risk Map, Market Crash
+- Spend extra 8–10 seconds on Market Crash controls + decision table
 - Keep voice calm and pace steady
 
 ---
