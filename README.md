@@ -92,7 +92,7 @@ Build an intelligent emergency coordination platform that:
 - 📱 **Technology Maturity**: AI, cloud computing, and real-time data processing are now accessible
 - 📊 **Data Availability**: GPS, traffic data, and IoT sensors provide the information we need
 - 💰 **Economic Impact**: Healthcare costs are skyrocketing; efficiency is critical
-- 🚨 **Global Health Crises**: COVID-19 showed us how fragile healthcare systems are
+- 🚨 **Global Health Crises**: COVID-19 showed us how fragile healthcare systems ar
 
 ---
 
